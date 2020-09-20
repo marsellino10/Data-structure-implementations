@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600609475 source:d:\new folder (2)\c++ projects\circuilar queue ds\main.c
+	"circular_queue.h"
+
+1600609898 source:d:\new folder (2)\c++ projects\circuilar queue ds\circular_queue.c
+	"circular_queue.h"
+
+1600608292 d:\new folder (2)\c++ projects\circuilar queue ds\circular_queue.h
+	<stdio.h>
+	<stdlib.h>
+
